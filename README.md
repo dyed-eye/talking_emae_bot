@@ -1,7 +1,7 @@
 # The Talking Emae bot for Telegram
 @@ test project to explore possibilities using DialogFlow in Python @@
 
-+ creation stage: have just began
++ creation stage: tired of unsuccesses :(
 + plans: telling weather and jokes ;)
 
 ---

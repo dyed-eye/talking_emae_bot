@@ -1,0 +1,2 @@
+# ignore all json's (especially config.json)
+*.json
